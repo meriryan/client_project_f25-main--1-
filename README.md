@@ -16,6 +16,7 @@
    - Brainstorming and refining design concepts
    - Exploring CSS features such as gradients and card layouts
    - Creating and improving code comments for readability
+   - Writing the site content
 
    ChatGPT assisted with:
    - Providing explanations and inline comments to clarify code structure
@@ -30,6 +31,6 @@
    - Acting as a learning companion while troubleshooting and refining 
      components throughout the design process
 
-   All design decisions, written content, and final implementations were 
+   All design decisions and final implementations were 
    created, reviewed, and approved by me for this project.
 ========================================== */
