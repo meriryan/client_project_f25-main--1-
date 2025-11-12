@@ -1,6 +1,6 @@
 /* ==========================================
    UMSI Career Development Resource Hub
-   Style Sheet
+
 
    ACKNOWLEDGMENTS:
 
