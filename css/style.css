@@ -101,7 +101,6 @@ nav a:hover {
 
 /* ==========================================
    HOMEPAGE HERO SECTION
-   DO NOT MODIFY - HOMEPAGE ONLY
    ========================================== */
 .hero-modern {
   display: flex;
@@ -219,14 +218,8 @@ nav a:hover {
   font-size: 0.875rem;
 }
 
-/* Remove floating cards */
-.floating-card {
-  display: none !important;
-}
-
 /* ==========================================
    HOMEPAGE BENTO SECTION - PROFESSIONAL DESIGN
-   DO NOT MODIFY - HOMEPAGE ONLY
    ========================================== */
 .bento-section {
   background: #fafbfc;
@@ -522,20 +515,8 @@ nav a:hover {
   grid-column: span 2;
 }
 
-/* Remove old emoji-based styles */
-.bento-icon,
-.bento-icon-small,
-.coach-avatars,
-.avatar,
-.more,
-.bento-visual,
-.resume-preview {
-  display: none;
-}
-
 /* ==========================================
    HOMEPAGE WHY SECTION
-   DO NOT MODIFY - HOMEPAGE ONLY
    ========================================== */
 .why-section {
   background: #fff;
@@ -642,11 +623,6 @@ nav a:hover {
   height: 6px;
   background: linear-gradient(90deg, var(--um-blue), var(--um-maize));
   border-radius: 4px;
-}
-
-/* Remove Popular Resources Section */
-.quick-links-section {
-  display: none !important;
 }
 
 /* ==========================================
